@@ -22,11 +22,11 @@
         "esbenp.prettier-vscode",
         "donjayamanne.githistory",
         "oderwat.indent-rainbow",
-        "dbaeumer.vscode-eslint",
         "bierner.markdown-mermaid",
         //"Gruntfuggly.todo-tree",
         //"humao.rest-client",
         //"Prisma.prisma"
+        "dbaeumer.vscode-eslint"
       ],
       "settings": {
         "editor.tabSize": 2, // インデントタブサイズは2とする
